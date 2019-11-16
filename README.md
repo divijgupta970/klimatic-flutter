@@ -1,10 +1,10 @@
-# klimatic
+# Klimatic
 
-A new Flutter application.
+A weather app built in FLutter using openweather.com api and Flare animations.
+
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
