@@ -1,6 +1,6 @@
 # Klimatic
 
-A weather app built in FLutter using openweather.com api and Flare animations.
+A weather app built in Flutter using openweather.com api and Flare animations.
 
 
 
